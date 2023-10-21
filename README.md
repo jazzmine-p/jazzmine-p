@@ -12,11 +12,11 @@ Here are some of my technical skills and badges:
 - NumPy ![NumPy](https://img.shields.io/badge/NumPy-Proficient-blue)
 - Pandas ![Pandas](https://img.shields.io/badge/Pandas-Proficient-blue)
 - scikit-learn ![scikit-learn](https://img.shields.io/badge/scikit--learn-Proficient-blue)
-- MySQL ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 - R ![R](https://img.shields.io/badge/R-Proficient-blue)
 - Visual Studio Code ![VS Code](https://img.shields.io/badge/VS%20Code-Proficient-blue)
 - Tableau ![Tableau](https://img.shields.io/badge/Tableau-Proficient-blue)
-- Power BI ![Power BI](https://img.shields.io/badge/Power%20BI-Proficient-blue)
+- ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 - Power Pivot ![Power Pivot](https://img.shields.io/badge/Power%20Pivot-Proficient-blue)
 - Databricks ![Databricks](https://img.shields.io/badge/Databricks-Proficient-blue)
 - Azure DevOps ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
@@ -33,7 +33,7 @@ Here are some of my technical skills and badges:
 
 ## 🌐 Personal Website
 
-You can learn more about me on my personal website: [Jasmine (Anh) Pham]([https://www.yourwebsite.com](https://jasmine-pham.wixsite.com/home))
+You can learn more about me on my personal website: [Jasmine (Anh) Pham](https://jasmine-pham.wixsite.com/home)
 
 ## 📫 Contact
 <a href="jasmine.pham97@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="jasmine-pham" height="30" width="40" /></a>
