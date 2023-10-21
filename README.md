@@ -12,7 +12,7 @@ Here are some of my technical skills and badges:
 - NumPy ![NumPy](https://img.shields.io/badge/NumPy-Proficient-blue)
 - Pandas ![Pandas](https://img.shields.io/badge/Pandas-Proficient-blue)
 - scikit-learn ![scikit-learn](https://img.shields.io/badge/scikit--learn-Proficient-blue)
-- SQL ![SQL](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg)
+- MySQL ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 - R ![R](https://img.shields.io/badge/R-Proficient-blue)
 - Visual Studio Code ![VS Code](https://img.shields.io/badge/VS%20Code-Proficient-blue)
 - Tableau ![Tableau](https://img.shields.io/badge/Tableau-Proficient-blue)
@@ -38,11 +38,3 @@ You can learn more about me on my personal website: [Jasmine (Anh) Pham]([https:
 ## 📫 Contact
 <a href="jasmine.pham97@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="jasmine-pham" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jasmine-pham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasmine-pham" height="30" width="40" /></a>
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jasmine-pham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasmine-pham" height="30" width="40" /></a>
-</p>
-
