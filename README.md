@@ -1,16 +1,40 @@
-### Hi there 👋
+# Hi, I'm Jasmine (Anh) Pham [she/her/hers]
 
-<!--
-**jazzmine-p/jazzmine-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an agile-minded data professional who is passionate, cross-functional, and goal-oriented. I have a strong aptitude for statistical and analytical tasks. As much as I enjoy doing the technical work, I am passionate about human-oriented work where I can see first-hand the positive impacts of my efforts.
 
-Here are some ideas to get you started:
+I'm currently a Master's student in Data Science at Boston University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Technical Skills
+
+Here are some of my technical skills and badges:
+
+- Python ![Python](https://img.shields.io/badge/Python-Proficient-blue)
+- NumPy ![NumPy](https://img.shields.io/badge/NumPy-Proficient-blue)
+- Pandas ![Pandas](https://img.shields.io/badge/Pandas-Proficient-blue)
+- scikit-learn ![scikit-learn](https://img.shields.io/badge/scikit--learn-Proficient-blue)
+- SQL ![SQL](https://img.shields.io/badge/SQL-Proficient-blue)
+- R ![R](https://img.shields.io/badge/R-Proficient-blue)
+- Visual Studio Code ![VS Code](https://img.shields.io/badge/VS%20Code-Proficient-blue)
+- Tableau ![Tableau](https://img.shields.io/badge/Tableau-Proficient-blue)
+- Power BI ![Power BI](https://img.shields.io/badge/Power%20BI-Proficient-blue)
+- Power Pivot ![Power Pivot](https://img.shields.io/badge/Power%20Pivot-Proficient-blue)
+- Databricks ![Databricks](https://img.shields.io/badge/Databricks-Proficient-blue)
+- Azure DevOps ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-Proficient-blue)
+
+## 💼 Work Experience
+- Population Health Data Scientist - Humana
+- Data Science Fellow - Tech Impact
+- Business Intelligence Analyst - Your Part-Time Controller
+
+## 🎓 Education
+
+- Master of Science in Data Science, Boston University, December 2024
+- Bachelor of Science in Business Analytics & Marketing, Drexel University, June 2020
+
+## 🌐 Personal Website
+
+You can learn more about me on my personal website: [Jasmine (Anh) Pham]([https://www.yourwebsite.com](https://jasmine-pham.wixsite.com/home))
+
+## 📫 Contact
+
+Feel free to reach out to me via email at [jasmine.pham97@gmail.com] or connect with me on [LinkedIn]([https://www.linkedin.com/in/jasmine-pham/]).
