@@ -9,17 +9,19 @@ After 3 years working in the industry, I decided to go back to school to further
 Here are some of my technical skills and badges:
 
 - ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-- ![NumPy](https://img.shields.io/badge/NumPy-Proficient-blue)
-- ![Pandas](https://img.shields.io/badge/Pandas-Proficient-blue)
-- ![scikit-learn](https://img.shields.io/badge/scikit--learn-Proficient-blue)
+- ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+- ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- ![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-- ![R](https://img.shields.io/badge/R-Proficient-blue)
-- ![VS Code](https://img.shields.io/badge/VS%20Code-Proficient-blue)
+- ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+- ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 - ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 - ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 - ![Power Pivot](https://img.shields.io/badge/Power%20Pivot-Proficient-blue)
-- ![Databricks](https://img.shields.io/badge/Databricks-Proficient-blue)
+- ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
 - ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+- ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 ## 💼 Work Experience
 - Population Health Data Scientist - Humana
