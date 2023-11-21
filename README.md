@@ -1,5 +1,21 @@
 (updates in progress)
-# Hi, I'm Jasmine (Anh) Pham [she/her/hers]
+<div id="header" align="center">
+  <iframe src="https://giphy.com/embed/UNOX4x1R71hnOqtsXp" width="120" height="120" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/shecodesio-swipe-up-computer-congratulations-UNOX4x1R71hnOqtsXp">via GIPHY</a></p>
+</div>
+
+<div id="badges">
+  <a href="https://linkedin.com/in/jasmine-pham">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
+  <a href="jasmine.pham97@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
+  </a>
+  <a href="https://jasmine-pham.wixsite.com/home">
+    <img src="https://img.shields.io/badge/Wix-000?logo=wix&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
+  </a>
+</div>
+
+# Hi <iframe src="https://giphy.com/embed/RfdkYfL7NnxolfuUht" width="48" height="35" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-RfdkYfL7NnxolfuUht">via GIPHY</a></p>! I'm Jasmine (Anh) Pham [she/her]
 
 I am an agile-minded data professional who is passionate, cross-functional, and goal-oriented. While I have a strong aptitude for technical and statistical tasks, I am ultimately driven to create sustainable and equitable solutions that result in socially meaningful transformations.
 
@@ -15,23 +31,27 @@ Here are some of my technical skills and badges:
 - ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 - ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 - ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-- ![Power Pivot](https://img.shields.io/badge/Power%20Pivot-Proficient-blue)
 - ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
 - ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 - ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 ## 💼 Work Experience
-- Population Health Data Scientist - Humana
+- Population Health Data Scientist - VACO
 - Data Science Fellow - Tech Impact
-- Business Intelligence Analyst - Your Part-Time Controller
+- Business Intelligence Analyst - YPTC
 
 ## 🎓 Education
 - Master of Science in Data Science, Boston University, December 2024
 - Bachelor of Science in Business Analytics & Marketing, Drexel University, June 2020
 
-## 🌐 Personal Website
-You can learn more about me on my personal website: [Jasmine (Anh) Pham](https://jasmine-pham.wixsite.com/home)
+<br/>
+<hr/>
+<br/>
 
-## 📫 Contact
-<a href="jasmine.pham97@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="jasmine-pham" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jasmine-pham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasmine-pham" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jazzmine-p&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+</p>
+
+
