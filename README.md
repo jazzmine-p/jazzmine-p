@@ -1,6 +1,6 @@
 (updates in progress)
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/UNOX4x1R71hnOqtsXp" width="120" height="120" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/shecodesio-swipe-up-computer-congratulations-UNOX4x1R71hnOqtsXp">via GIPHY</a></p>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3V2a2xoc3gwZnN1amN3aHBtZ3hxcHc3ZjJ2Mm9zenFla3I0MDhpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UNOX4x1R71hnOqtsXp/giphy.gif" width="120" height="120"/>
 </div>
 
 <div id="badges">
@@ -15,7 +15,7 @@
   </a>
 </div>
 
-# Hi <iframe src="https://giphy.com/embed/RfdkYfL7NnxolfuUht" width="48" height="35" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-RfdkYfL7NnxolfuUht">via GIPHY</a></p>! I'm Jasmine (Anh) Pham [she/her]
+# Hi <iframe src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJtZzV2N3BlM3ljYzMyYWFiM2MxNXlhd3Foa2FxeGdveDZpOG9rZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RfdkYfL7NnxolfuUht/giphy.gif" width="48" height="35"/> I'm Jasmine (Anh) Pham [she/her]
 
 I am an agile-minded data professional who is passionate, cross-functional, and goal-oriented. While I have a strong aptitude for technical and statistical tasks, I am ultimately driven to create sustainable and equitable solutions that result in socially meaningful transformations.
 
