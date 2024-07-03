@@ -34,11 +34,13 @@ After 3 years working in the industry, I decided to go back to school to further
 - ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 ## 💼 Work & Volunteer Experience
+- Applied AI Scientist - Boston University's GenAI Task Force
+- Business Intelligence Intern - Boston University Sustainability
 - Ambassador - Women in Data Sciene (WiDS) Worldwide
 - Population Health Data Scientist - DVACO
 - Data Science Fellow - Tech Impact
 - Business Intelligence Analyst - YPTC
-- Associate Consultant Intern - SAP
+- Business Analyst Intern - SAP
 - Marketing & Communications Intern - PwC
  
 ## 🎓 Education
