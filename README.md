@@ -17,9 +17,9 @@
 
 # Hi <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJtZzV2N3BlM3ljYzMyYWFiM2MxNXlhd3Foa2FxeGdveDZpOG9rZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RfdkYfL7NnxolfuUht/giphy.gif" width="48" height="35"/> I'm Jasmine (Anh) Pham [she/her]
 
-I am an agile-minded data professional who is ethical, cross-functional, and goal-oriented. While I have a strong aptitude for technical and statistical tasks, I am ultimately driven to create sustainable and equitable solutions that result in socially meaningful transformations.
+I am an agile-minded data professional who is purpose-driven, cross-functional, and ethical. While I enjoy solving for technical and statistical problems, my ultimate motivation is to create sustainable data solutions that result in socially meaningful impacts.
 
-After 3 years working in the industry, I decided to go back to school to further enhance my foundational knowledge and hone my skill set in data science. I'm currently a Master's student in Data Science at Boston University with an expected graduation date in December 2024.
+After 4 years working in the industry, I decided to go back to school to further enhance my foundational knowledge, enhance my data science skills, and stay in the forefront of GenAI and other emerging technologies. I am currently pursuing a Master’s in Data Science at Boston University with an expected graduation date in December 2024.
 
 ## 🧰 Technical Skills
 
@@ -34,7 +34,7 @@ After 3 years working in the industry, I decided to go back to school to further
 - ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 ## 💼 Work & Volunteer Experience
-- Applied AI Scientist - Boston University's GenAI Task Force
+- Applied AI Scientist Intern - Boston University's GenAI Task Force
 - Business Intelligence Intern - Boston University Sustainability
 - Ambassador - Women in Data Sciene (WiDS) Worldwide
 - Population Health Data Scientist - DVACO
