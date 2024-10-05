@@ -1,4 +1,3 @@
-(site in development)
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3V2a2xoc3gwZnN1amN3aHBtZ3hxcHc3ZjJ2Mm9zenFla3I0MDhpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UNOX4x1R71hnOqtsXp/giphy.gif" width="200" height="200"/>
 </div>
@@ -11,15 +10,21 @@
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
   </a>
   <a href="https://jasmine-pham.wixsite.com/home">
-    <img src="https://img.shields.io/badge/Wix-000?logo=wix&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Wix-000?logo=wix&logoColor=white&style=for-the-badge" alt="Wix Badge"/>
   </a>
 </div>
 
 # Hi <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJtZzV2N3BlM3ljYzMyYWFiM2MxNXlhd3Foa2FxeGdveDZpOG9rZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RfdkYfL7NnxolfuUht/giphy.gif" width="48" height="35"/> I'm Jasmine (Anh) Pham [she/her]
 
-I am an agile-minded data professional who is purpose-driven, cross-functional, and ethical. While I enjoy solving for technical and statistical problems, my ultimate motivation is to create sustainable data solutions that result in socially meaningful impacts.
+I'm a versatile Data Scientist with 4 years of experience in **big data analytics**, **visualization**, **ML/AI**, and **data engineering**.
 
-After 4 years working in the industry, I decided to go back to school to further enhance my foundational knowledge, enhance my data science skills, and stay in the forefront of GenAI and other emerging technologies. I am currently pursuing a Master’s in Data Science at Boston University with an expected graduation date in December 2024.
+Data science is a perfect blend of what I'm good at and what I'm passionate about.  While I have a knack for quantitative work, what ultimately drives me is the desire to make positive and meaningful impacts.
+
+My specialty lies in **deriving actionable insights from unstructured data to drive strategic decisions and tackle real-world problems**. This can manifest in various forms, from an automated dashboard that detects anomalies in a recruiting pipeline, to an in-depth analysis that exposes racial disparities, or a machine learning model that predicts green energy production to optimize resource planning.
+
+I've led several end-to-end data science projects that made tangible impacts — like reducing hospital admissions by 24% and increasing $30M in revenue for a network of healthcare providers, or designing and analyzing marketing metrics that led to successful market expansion into three new cities. Right now, I’m building a scalable chatbot that empower professors with real-time, data-driven insights to better improve student learning outcomes. These tangible outcomes not only highlight my **technical capabilities and adaptability** but also is a testament to my **commitment to drive data-driven growth and make positive impacts**.
+
+After 3+ years working in the industry, I decided to go back to school to further enhance my foundational knowledge, advance my technical skills, and stay in the forefront of GenAI and other emerging technologies. I will be graduating with a Master’s in Data Science from Boston University in December 2024.
 
 ## 🧰 Technical Skills
 
@@ -32,21 +37,37 @@ After 4 years working in the industry, I decided to go back to school to further
 - ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
 - ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 - ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+- Google Cloud Platform, Microsoft Azure
+- Docker, Linux, Kubernetes
+- NLP, LLM, GenAI
 
 ## 💼 Work & Volunteer Experience
-- Applied AI Scientist Intern - Boston University's GenAI Task Force
-- Business Intelligence Intern - Boston University Sustainability
-- Ambassador - Women in Data Sciene (WiDS) Worldwide
-- Population Health Data Scientist - DVACO
-- Data Science Fellow - Tech Impact
-- Business Intelligence Analyst - YPTC
-- Business Analyst Intern - SAP
-- Marketing & Communications Intern - PwC
- 
-## 🎓 Education
-- Master of Science in Data Science, Boston University, December 2024
-- Bachelor of Science in Business Analytics & Marketing, Drexel University, June 2020
+- Applied AI Scientist Intern @ Boston University's GenAI Task Force (2024)
+- Data Visualization Intern @ Boston University Sustainability (2024)
+- Data Scientist @ Delaware Valley Accountable Care Organization (2021 - 2023)
+- Data Science Fellow @ Tech Impact (2020 - 2021)
+- Business Intelligence Analyst @ YPTC (2019 - 2020)
+- Business Analyst Intern @ SAP (2018)
+- Marketing & Communications Intern @ PwC (2017)
 
+## 🎓 Education
+- Master of Science in Data Science @ Boston University 
+    - Expected Graduation: December 2024
+    - Grace Hopper Celebration (GHC 24) Full Scholarship
+    - Teaching Assistant - AI & Ethics
+    - Computing & Data Science Merit Scholarship
+- Bachelor of Science in Business Analytics & Marketing @ Drexel University 
+    - Graduated with Honors: June 2020
+    - A.J. Drexel Merit Scholarship
+    - Honors Students Advisory Committee
+
+## 💼 Volunteer Experience & Awards
+- Ambassador - Women in Data Sciene (WiDS) Worldwide (2023 - 2024)
+- Data Science Speaker - Women in Tech (WiT) @ Tufts University (2024)
+- Hackathon Winner - BostonHacks x Major League Hacking (2023)
+- Global Winner - Essity Global Marketing Challenge (2019)
+- 2nd Runner - PwC Case Competition (2018)
+  
 <br/>
 <hr/>
 <br/>
